@@ -2,7 +2,7 @@
 
 Some x86-64 NASM tic-tac-toe.
 
-Compilation: 
+<b>Compilation:</b> 
 
-<code> nasm -f elf64 main.asm <br />
-gcc -no-pie main.o </code>
+<code>nasm -f elf64 main.asm <br /> </code>
+<code>gcc -no-pie main.o </code>
